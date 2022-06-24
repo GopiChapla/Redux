@@ -1,0 +1,14 @@
+.App {
+  margin-left: 500px;
+  width: 500px;
+  text-align: center;
+}
+
+.title{
+  color: #dc143c;
+  font-size: 30px;
+  margin: 20px;
+  background-color: aqua;
+  width: 300px;
+  margin-left: 100px;
+}
